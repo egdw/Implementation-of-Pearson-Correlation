@@ -2,6 +2,10 @@
 皮尔逊相关系数算法实现
 
 # 协方差公式
+
+这里的$E$表示的是期望，$E$在这里可以看成求和。
+
+
 $$
 \operatorname{Cov}(X, Y)=E\left[\left(X-\mu_{x}\right)\left(Y-\mu_{y}\right)\right]
 $$
